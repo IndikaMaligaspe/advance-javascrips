@@ -19,14 +19,15 @@ Performance optimization involves techniques to improve the speed and efficiency
 
 Debouncing ensures that a function is only executed after a certain amount of time has passed since it was last invoked. This is useful for scenarios where you want to limit the number of times a function is called, such as handling search input where you only want to send a request after the user has stopped typing.
 
-### Debouncing Example
+
 
 
 ## Throttling
 
 Throttling ensures that a function is only executed once every specified amount of time. This is useful for scenarios where you want to limit the rate at which a function is called, such as handling scroll events where you want to perform an action at most once every few milliseconds
 
-### Throttling Example
+## Examples
+[Debouncing Example](./debounce.ts)
 
 
 
