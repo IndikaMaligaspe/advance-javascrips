@@ -6,10 +6,9 @@ Performance optimization is crucial for creating efficient and responsive applic
 
 1. [Introduction](#introduction)
 2. [Debouncing](#debouncing)
-   - [Example](#debouncing-example)
 3. [Throttling](#throttling)
-   - [Example](#throttling-example)
-4. [Further Reading](#further-reading)
+4. [Examples](#Examples)
+5. [Further Reading](#further-reading)
 
 ## Introduction
 
