@@ -26,7 +26,7 @@ Debouncing ensures that a function is only executed after a certain amount of ti
 Throttling ensures that a function is only executed once every specified amount of time. This is useful for scenarios where you want to limit the rate at which a function is called, such as handling scroll events where you want to perform an action at most once every few milliseconds
 
 ## Examples
-[Debouncing Example](./debounce.ts)
+1. [Debouncing Example](./debounce.ts)(./debounce.js)
 
 
 
