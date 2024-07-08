@@ -1,4 +1,3 @@
-const { timeEnd } = require('console');
 const readline = require('readline')
 
 function debounce(func, wait) {

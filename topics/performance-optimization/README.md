@@ -27,6 +27,7 @@ Throttling ensures that a function is only executed once every specified amount 
 
 ## Examples
 1. [Debouncing Example](./debounce.ts)(./debounce.js)
+2. [Throttling Example](./throttle.ts)(./throttle.js)
 
 
 
