@@ -26,8 +26,8 @@ Debouncing ensures that a function is only executed after a certain amount of ti
 Throttling ensures that a function is only executed once every specified amount of time. This is useful for scenarios where you want to limit the rate at which a function is called, such as handling scroll events where you want to perform an action at most once every few milliseconds
 
 ## Examples
-1. Debouncing Example - [ts](./debounce.ts), [js](./debounce.js)
-2. [Throttling Example](./throttle.ts)(./throttle.js)
+1. Debouncing Example - [Typescript:](./debounce.ts), [Javascript](./debounce.js)
+2. Throttling Example - [Typescript:](./throttle.ts), [Javascript](./throttle.js)
 
 
 
