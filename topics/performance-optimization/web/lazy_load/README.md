@@ -3,18 +3,18 @@
 This repository contains a simple example of implementing lazy loading in a TypeScript web application without using any frameworks. The project demonstrates how to dynamically import a module when a button is clicked.
 
 ## Project Structure
-
-lazy-loading-example/
-├── dist/
-│ ├── index.html
-│ ├── app.js
-│ └── lazyModule.js
-├── src/
-│ ├── index.html
-│ ├── app.ts
-│ └── lazyModule.ts
-├── tsconfig.json
-└── package.json
+    ```bash
+    lazy-loading-example/
+    ├── dist/
+    │ ├── index.html
+    │ ├── app.js
+    │ └── lazyModule.js
+    ├── src/
+    │ ├── index.html
+    │ ├── app.ts
+    │ └── lazyModule.ts
+    ├── tsconfig.json
+    └── package.json
 
 
 ## Prerequisites
