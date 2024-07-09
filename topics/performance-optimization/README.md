@@ -25,9 +25,14 @@ Debouncing ensures that a function is only executed after a certain amount of ti
 
 Throttling ensures that a function is only executed once every specified amount of time. This is useful for scenarios where you want to limit the rate at which a function is called, such as handling scroll events where you want to perform an action at most once every few milliseconds
 
+## Lazy loading
+
+Lazy loading is the practice of loading resources (like images, scripts, components or modiles) only when they are needed rather than at the initial page load. For example, images that are not in the initial viewport can be loaded only when the user scrolls down to them.
+
 ## Examples
 1. Debouncing Example - [Typescript](./debounce.ts) , [Javascript](./debounce.js)
 2. Throttling Example - [Typescript](./throttle.ts) , [Javascript](./throttle.js)
+3. Lazy Loading Example - [web](./web/lazy_load/README.md) , [console](./lasyload.ts)
 
 
 
